@@ -1,0 +1,103 @@
+[[libcgroup]]
+arch = "aarch64"
+git-tree-sha1 = "4281a7b53b8aec4ebdd536f7fc4856c549e5250c"
+libc = "glibc"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "e1b31f9d2d2991c8d0e76c62b08c4a8136cb65186bfdde5564351f3ef34d3049"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.aarch64-linux-gnu.tar.gz"
+[[libcgroup]]
+arch = "aarch64"
+git-tree-sha1 = "42ee192a20194af260e2a46110363a6175b401a5"
+libc = "musl"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "dce36c875f84d758ea07ed53c1bf4eba17c5272cf4f40f3dec3cef547c1760cd"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.aarch64-linux-musl.tar.gz"
+[[libcgroup]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6b0c6d7e148a1e1fa55ae8fd84014ac66d4bf039"
+libc = "glibc"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "d633097716636aeecfde8b01526f93d663a860839df0b9f85788464f90a79bed"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[libcgroup]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "226032f82c3a73a91feca4daf5ef927267bc9e9e"
+libc = "musl"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "21f6197fa85f741150e09fb2deb5e50a85c78787e83d72f0040e07cb8f040ddd"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.armv6l-linux-musleabihf.tar.gz"
+[[libcgroup]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "45c79bc01ff70b1e00303e293f4927759065347c"
+libc = "glibc"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "1e91fc0677f633cec31a2331e298e8a2be622aa6458779e135afea37d40e056a"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[libcgroup]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "13d3baadad1b256b4edbbd3479688b6cba4c0030"
+libc = "musl"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "aea4976dfd9478f863296191fe165efab4b361dfe2187ffe93e2287d79d1eae5"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+[[libcgroup]]
+arch = "i686"
+git-tree-sha1 = "1219fec8df426e7166e736f49c5d95c23c273b57"
+libc = "glibc"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "7fc96b1f4a003790584937350373500119c3f7a08be672a1c11908a484473008"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.i686-linux-gnu.tar.gz"
+[[libcgroup]]
+arch = "i686"
+git-tree-sha1 = "e71c9f0b90854bc0cd1c5833ea95dc5e7b9ca006"
+libc = "musl"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "3b7fec09185541e0aabb1bf538918fde5ff062751918ef9b6c1c6d17cbdf45e7"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.i686-linux-musl.tar.gz"
+[[libcgroup]]
+arch = "powerpc64le"
+git-tree-sha1 = "0702516b301fe58e8f31d6d7d02f32703d360aa4"
+libc = "glibc"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "21a1c27dd468ebd49fd09024293c3a50b0404b8c85442567c8b9a86137d9cdcc"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+[[libcgroup]]
+arch = "x86_64"
+git-tree-sha1 = "b10d6b31503f2d0e5b564171bcd4b3258632583c"
+libc = "glibc"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "9e7d7f58258dd9605dd0e3c32b2546dac0575dfc4aff656c180a832c420fa639"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.x86_64-linux-gnu.tar.gz"
+[[libcgroup]]
+arch = "x86_64"
+git-tree-sha1 = "31ac002bc040272ecc541d3039b97c889bb29ce0"
+libc = "musl"
+os = "linux"
+
+    [[libcgroup.download]]
+    sha256 = "e035701b5314c1ac1548d8de3945e6ade19c891493405c49d3ec3f0a2edc45b9"
+    url = "https://github.com/JuliaBinaryWrappers/libcgroup_jll.jl/releases/download/libcgroup-v3.0.0+0/libcgroup.v3.0.0.x86_64-linux-musl.tar.gz"
